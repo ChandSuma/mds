@@ -1,2 +1,2 @@
 # mds
-Marketing Data Science
+Marketing Data Science-Modelling techniques In R and Python
